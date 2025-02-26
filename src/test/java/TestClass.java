@@ -24,4 +24,9 @@ public class TestClass {
 
         response.prettyPrint();
     }
+
+    @Test
+    public void secondMethod(){
+        System.out.println("code to be edited");
+    }
 }
